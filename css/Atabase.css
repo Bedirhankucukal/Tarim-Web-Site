@@ -83,3 +83,31 @@ body{
   .card button:hover {
     opacity: 0.7;
   }
+
+
+  .carsett{
+    width: 960px; 
+    height: 468px;
+  }
+
+  .tabloclasstaba{
+    width: 600px; 
+    height: 450px; 
+    margin-left: 10%;
+  }
+
+  .tabaseclogo1{
+    width: 554px; height: 128; margin-left: 15%;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    }
+
+  @media screen and (max-width: 992px) {
+    iframe {
+      width: fit-content;
+    }
+  
+  }
